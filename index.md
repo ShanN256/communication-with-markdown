@@ -4,3 +4,6 @@ Cool this is how to make headers of various sizes
 ``` python
 print("Hello World!);
 ```
+
+- [x] start github Programming
+- [ ] Go outside
